@@ -1,0 +1,3 @@
+#! /bin/bash
+curl http://192.168.1.19
+curl https://192.168.1.19 --cacert ssl_certificates/192.168.1.19.crt
